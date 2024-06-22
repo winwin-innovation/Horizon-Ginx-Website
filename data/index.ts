@@ -81,7 +81,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Deepfake Live VC Softwares",
+    title: "Live VC Softwares",
     des: "Simplify your video conferencing experience with deepfak full-body and static software. Seamlessly connect and build trust with colleagues and friends.",
     img: "/z2.png",
     link: "/ui.deepfake.com",
@@ -95,7 +95,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "RealTime Voice Changer",
+    title: "Voice Changer/Call Spoofing",
     des: "Enhance your calls with RealTime Voice Changer, seamlessly transforming voice inputs into female or male voices and various accents of your choice.",
     img: "/z4.png",
     link: "/ui.voice.com",
