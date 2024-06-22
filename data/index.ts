@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "Website Development",
-    des: "Unleash a digital storm with our web development, bulletproof banking sites, law fir, corporate hubs, mining platforms, portfolios, and blogs.",
+    des: "Unleash a digital storm with our web development, bulletproof banking sites, law firm, corporate hubs, mining platforms, portfolios, and blogs.",
     img: "/z3.png",
     link: "/ui.websitedevelopment.com",
   },
