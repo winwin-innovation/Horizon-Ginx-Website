@@ -11,6 +11,7 @@ import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { LampDemo } from "@/components/LampEffect";
 import Clients from "@/components/Clients";
+import FacebookMsg from "@/components/FacebookMsg";
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
         <Clients />
         <Approach />
         <Footer />
+        <FacebookMsg />
       </div>
     </main>
   );
