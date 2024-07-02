@@ -12,6 +12,7 @@ import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { LampDemo } from "@/components/LampEffect";
 import Clients from "@/components/Clients";
 import FacebookMsg from "@/components/FacebookMsg";
+import ChatwootWidget from "../components/ChatwootWidget";
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
         <Approach />
         <Footer />
         <FacebookMsg />
+        <ChatwootWidget />
       </div>
     </main>
   );
